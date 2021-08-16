@@ -19,7 +19,7 @@ int main()
     {
         for(c=0; c<WIDTH; c++)
         {
-            cout << table[r]][c]<<",";
+            cout << table[r][c]<<",";
         }
     }
 }
